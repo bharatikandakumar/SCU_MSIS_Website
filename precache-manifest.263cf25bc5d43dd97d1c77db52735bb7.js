@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63ddb962c4812b4916da29df97eb76ce",
+    "revision": "b8a01d623ae188c1d5aa316a5ee513f0",
     "url": "/SCU_MSIS_Website/index.html"
   },
   {
-    "revision": "3fca73c8d15480b9711e",
+    "revision": "818d9aa2f977542f7fcc",
     "url": "/SCU_MSIS_Website/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SCU_MSIS_Website/static/js/2.02726822.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fca73c8d15480b9711e",
-    "url": "/SCU_MSIS_Website/static/js/main.e4a9b639.chunk.js"
+    "revision": "818d9aa2f977542f7fcc",
+    "url": "/SCU_MSIS_Website/static/js/main.44214157.chunk.js"
   },
   {
     "revision": "ffd3ab883e35988b33e3",
