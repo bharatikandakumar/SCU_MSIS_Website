@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88cd1b27066fe08847c056d61fd7d889",
+    "revision": "fddbf0e56b94a1f1ecf6ac6d79234e91",
     "url": "/SCU_MSIS_Website/index.html"
   },
   {
-    "revision": "f4582c1af28cd7489d2d",
+    "revision": "298469b575756db74c51",
     "url": "/SCU_MSIS_Website/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "a5c1044c14057f487fb3",
-    "url": "/SCU_MSIS_Website/static/js/2.487f3d95.chunk.js"
+    "revision": "6df5817cd869013ea836",
+    "url": "/SCU_MSIS_Website/static/js/2.d2a62dca.chunk.js"
   },
   {
     "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/SCU_MSIS_Website/static/js/2.487f3d95.chunk.js.LICENSE.txt"
+    "url": "/SCU_MSIS_Website/static/js/2.d2a62dca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4582c1af28cd7489d2d",
-    "url": "/SCU_MSIS_Website/static/js/main.0a8fc512.chunk.js"
+    "revision": "298469b575756db74c51",
+    "url": "/SCU_MSIS_Website/static/js/main.73620b6e.chunk.js"
   },
   {
     "revision": "ffd3ab883e35988b33e3",
