@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SCU_MSIS_Website/precache-manifest.2f0a640ca8f2f35415912cf6feac156f.js"
+  "/SCU_MSIS_Website/precache-manifest.bf1d7ec791513970228b5c79b8f2e372.js"
 );
 
 self.addEventListener('message', (event) => {
