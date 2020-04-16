@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SCU_MSIS_Website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/SCU_MSIS_Website/static/js/main.44214157.chunk.js",
-    "main.js.map": "/SCU_MSIS_Website/static/js/main.44214157.chunk.js.map",
+    "main.js": "/SCU_MSIS_Website/static/js/main.0a8fc512.chunk.js",
+    "main.js.map": "/SCU_MSIS_Website/static/js/main.0a8fc512.chunk.js.map",
     "runtime-main.js": "/SCU_MSIS_Website/static/js/runtime-main.9e8e1928.js",
     "runtime-main.js.map": "/SCU_MSIS_Website/static/js/runtime-main.9e8e1928.js.map",
-    "static/js/2.02726822.chunk.js": "/SCU_MSIS_Website/static/js/2.02726822.chunk.js",
-    "static/js/2.02726822.chunk.js.map": "/SCU_MSIS_Website/static/js/2.02726822.chunk.js.map",
+    "static/js/2.487f3d95.chunk.js": "/SCU_MSIS_Website/static/js/2.487f3d95.chunk.js",
+    "static/js/2.487f3d95.chunk.js.map": "/SCU_MSIS_Website/static/js/2.487f3d95.chunk.js.map",
     "index.html": "/SCU_MSIS_Website/index.html",
-    "precache-manifest.263cf25bc5d43dd97d1c77db52735bb7.js": "/SCU_MSIS_Website/precache-manifest.263cf25bc5d43dd97d1c77db52735bb7.js",
+    "precache-manifest.f7c952ff007146d9ffde595246fbf7f2.js": "/SCU_MSIS_Website/precache-manifest.f7c952ff007146d9ffde595246fbf7f2.js",
     "service-worker.js": "/SCU_MSIS_Website/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/SCU_MSIS_Website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.02726822.chunk.js.LICENSE.txt": "/SCU_MSIS_Website/static/js/2.02726822.chunk.js.LICENSE.txt",
+    "static/js/2.487f3d95.chunk.js.LICENSE.txt": "/SCU_MSIS_Website/static/js/2.487f3d95.chunk.js.LICENSE.txt",
     "static/media/HorizontalRed1.png": "/SCU_MSIS_Website/static/media/HorizontalRed1.4512285b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9e8e1928.js",
-    "static/js/2.02726822.chunk.js",
+    "static/js/2.487f3d95.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.44214157.chunk.js"
+    "static/js/main.0a8fc512.chunk.js"
   ]
 }
